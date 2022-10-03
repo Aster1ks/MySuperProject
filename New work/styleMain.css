@@ -1,0 +1,79 @@
+/* common att */
+* {
+	font-family: 'Poppins', sans-serif;
+}
+/* body section */
+body {
+	background-color: rgba(201, 201, 15, 0.603)
+}
+
+body h1, h3 {
+	color: rgb(62, 62, 40);
+	text-align: center;
+}
+
+body button {
+    background-color: #9c9c63;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    font-size: 16px;
+    color: #0d0e13;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+	margin: 20px;
+	margin-left: 55px;
+}
+
+.findForm {
+	display: block;
+	width: 500px;
+    height: 444px;
+    margin-left: auto;
+    margin-right: auto;
+	padding: 10px 10px 10px 10px;
+    background:rgba(124, 124, 80, .5);
+    box-sizing: border-box;
+    box-shadow: 10px 10px 20px rgb(80, 80, 50);
+    border-radius: 10px;
+	justify-content: flex-end;
+
+}
+
+.labelInput {
+	margin-left: 40px;
+	margin-right: 20px;
+	padding: 5px;
+	clear:both;
+	text-align: right;
+	line-height: 25px;
+}
+
+label {
+	float:left;
+	padding-right: 10px;
+}
+
+input {
+	width: 300px;
+}
+
+.inputAll {
+	float:left;
+}
+
+.findForm span {
+	width: 480px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+	padding: 0px;
+	color: rgb(7, 167, 127);
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	font-size: 150%;
+}
+
+
