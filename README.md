@@ -1,3 +1,3 @@
 # MySuperProject
-Love my project
-Practice and Excellence
+Love my project;
+Practice and Excellence;
